@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="home_fragment_label">Movies</string>
+</resources>
